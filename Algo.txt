@@ -1,3 +1,5 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
 3. Decide Delivery or Pickup
+4. Eat your Pizza! 
+5. Watch TV!
